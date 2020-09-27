@@ -1,0 +1,18 @@
+{
+  "name": "melphihouse",
+  "version": "1.0.0",
+  "description": "La casa de Melphi",
+  "main": "app.js",
+  "repository": "https://github.com/NigTw0",
+  "author": "Melphi",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
